@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @IsroilMukhitdinov
-- 👀 I’m interested in programming in java
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on developing desktop applications using javafx
 - 📫 How to reach me isroillisper@gmail.com
 
 <!---
